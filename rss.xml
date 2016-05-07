@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MBA 523]]></title>
         <description><![CDATA[MBA 523]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mba-523/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 07:14:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 May 2016 07:17:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mba-523/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TEACHING METHOD]]></title>
+            <description><![CDATA[<article><h1>TEACHING METHOD</h1><p>This course speaks directly to Marymount's commitment to helping others as a reflection of Marymount's Catholic identity. Working in groups, students will select either a non-profit or for-profit organization in the National Capital community and will attack an issue facing that organization. Working in parallel with each other and the course content, the groups will work through a process of problem identification and framing, analyze the issue and select the best response, and then develop and communicate a plan to address their organizaton's issue.</p></article>]]></description>
+            <link>https://thegrid.ai/mba-523/teaching-method/index.html</link>
+            <guid isPermaLink="false">a0492eab-083b-40d6-aba3-2bafaf389d45</guid>
+            <pubDate>Sat, 07 May 2016 07:16:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8631e3e2-5048-4519-9ca1-7b0e89312ca9.jpg">]]></description>
-            <link>undefinedcourse-schedule/index.html</link>
+            <link>https://thegrid.ai/mba-523/course-schedule/index.html</link>
             <guid isPermaLink="false">4cfadfb1-8760-4e06-9142-5bd95cf6af8a</guid>
             <pubDate>Sat, 07 May 2016 07:14:46 GMT</pubDate>
         </item>
